@@ -351,7 +351,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
-  font-size: 15px;
+  font-size: 18px;
   color: #222222;
 }
 .navbar-mobile > ul > li {
